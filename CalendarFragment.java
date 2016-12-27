@@ -119,7 +119,7 @@ public class CalendarFragment extends Fragment {
 
         queue = Volley.newRequestQueue(getContext());
         getJson();
-       
+
         prepareListData();
 
 
